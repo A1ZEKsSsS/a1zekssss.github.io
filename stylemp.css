@@ -1,0 +1,38 @@
+
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+header.firstline{
+	
+	background-image: url(262391-Sepik_1920x1080.JPG);
+  	background-position: center;
+
+ 	background-size: cover;
+ 	height: 100%;
+
+
+ }
+ h2{
+ 	color:white;
+ }
+ hr{
+ max-width: 65px;
+  border-width: 3px;
+  border-color: black; 
+ }
+
+header.firstline h2{
+	margin-top:300px;
+	margin-bottom: 10px;
+}
+header.firstline hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}
+
